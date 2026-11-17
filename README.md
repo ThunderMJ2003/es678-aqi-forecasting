@@ -14,7 +14,6 @@ ES 678 course project (IIT Gandhinagar), Manav Jain (22110140).
 | `notebooks/ablation.ipynb` | Ablation of evaluation design (S0–S5) and the paper's ablation and Delhi figures |
 | `figures/` | Figures used in the paper |
 | `requirements.txt` | Python packages |
-| `AI_USE.md` | AI-use disclosure |
 
 ## Data access
 
